@@ -1,0 +1,17 @@
+/* h1{
+    color: aqua;
+   background-color: bisque;
+} */
+.Mm{
+    color: brown;
+    transition: all 1s;
+}
+.Mm:hover{
+    color: yellow;
+    transform: scale(1.1);
+}
+/* body{
+    background-repeat: no-repeat;
+    background-image:url(https://images.pexels.com/photos/5847439/pexels-photo-5847439.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    
+} */

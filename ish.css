@@ -1,0 +1,48 @@
+*{
+    padding: 0px ;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(212, 209, 209);
+}
+.item1{
+    color: white;
+    background-color: black;
+    width: 95%;
+    height: 50px;
+    margin: 150px 40px;
+    padding-top: 15px;
+    padding-left: 50px;
+    word-spacing: 490px;
+    box-shadow: 10%;
+}
+
+.item2{
+    display: inline;
+    color: whitesmoke;
+    word-spacing: 10px;
+}
+.item3{
+    background-color: rgb(118, 118, 199);
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    
+}
+.x1{
+    color: white;
+    background-color: black;
+    width: 95%;
+    height: 50px;
+    margin: 150px 40px;
+    padding-top: 15px;
+    padding-left: 50px;
+    box-shadow: 10%;
+    word-spacing: 20px;
+}
+.x2{
+    color: white;
+   display: inline;
+   padding-left: 65%;
+}
